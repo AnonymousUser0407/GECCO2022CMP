@@ -1,5 +1,7 @@
 # Experimental Results of OMC_SOMA
-This repository present the detailed experimental results of the competition entry OMC_SOMA in GECCO 2022 competition on [Real Parameter Single Objective Bound Constrained Optimization](https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2022/CEC2022.htm).
+This repository presents the detailed experimental results of the competition entry OMC_SOMA in the GECCO 2022 competition on [Real Parameter Single Objective Bound Constrained Optimization](https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2022/CEC2022.htm).
+
+Since there is still space to improve the accuracy in the future, we'll keep updating these results during this month.
 
 ### 1. Time Complexicity
 
@@ -63,17 +65,17 @@ Optimality results shows the best, worst, mean value that OMC_SOMA can find in t
 
 |Func.| Best | Worst | Median | Mean | Std |
 |--|--|--|--|--|--|
-|F1|--|--|--|--|--|
-|F2|--|--|--|--|--|
-|F3|--|--|--|--|--|
-|F4|--|--|--|--|--|
-|F5|--|--|--|--|--|
-|F6|--|--|--|--|--|
-|F7|--|--|--|--|--|
-|F8|--|--|--|--|--|
-|F9|--|--|--|--|--|
-|F10|--|--|--|--|--|
-|F11|--|--|--|--|--|
-|F12|--|--|--|--|--|
+| 1 | 6.69e-09 | 9.14e+00 | 9.42e-09 | 3.05e-01 | 1.64e+00 |
+| 2 | 4.19e+00 | 4.91e+01 | 4.91e+01 | 4.69e+01 | 8.67e+00 |
+| 3 | 7.84e-09 | 9.94e-09 | 9.56e-09 | 9.18e-09 | 7.28e-10 |
+| 4 | 1.49e+01 | 5.87e+01 | 2.89e+01 | 3.07e+01 | 1.07e+01 |
+| 5 | 9.35e-09 | 4.54e-01 | 9.95e-09 | 3.33e-02 | 1.14e-01 |
+| 6 | 1.47e+01 | 3.59e+03 | 2.40e+02 | 6.87e+02 | 9.66e+02 |
+| 7 | 1.14e-04 | 2.74e+01 | 3.02e+00 | 6.24e+00 | 7.75e+00 |
+| 8 | 2.04e+01 | 2.49e+01 | 2.11e+01 | 2.15e+01 | 9.20e-01 |
+| 9 | 1.81e+02 | 1.81e+02 | 1.81e+02 | 1.81e+02 | 5.68e-14 |
+| 10 | 4.00e-02 | 1.01e+02 | 2.66e-01 | 3.04e+01 | 4.59e+01 |
+| 11 | 6.25e-09 | 1.36e-03 | 4.93e-08 | 6.76e-05 | 2.56e-04 |
+| 12 | 2.32e+02 | 2.54e+02 | 2.37e+02 | 2.38e+02 | 5.81e+00 |
 
 
